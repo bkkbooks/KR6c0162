@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0162/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經提綱
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0543.xml
+    old_id: X26n0543
+hash: sha256:092d6ab82c22abf7a0a5a5405e5632d7e1b509de07f83ebd966bb466ba12cacf
