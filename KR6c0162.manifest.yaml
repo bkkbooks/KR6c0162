@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6c0162_000.yaml, hash: 'sha256:092d6ab82c22abf7a0a5a5405e5632d7e1b509de07f83ebd966bb466ba12cacf'}
-  - {seq: 1, filename: KR6c0162_001.yaml, hash: 'sha256:462d818b4e0f2478e60f901584d0521e69349d73b56f5291acc4043c9746fd05'}
+  - {seq: 1, filename: KR6c0162_001.yaml, hash: 'sha256:0c0c0235e0f7ff8c924dfea69e6d044de727491cf5e129e7f7990e8ef8949bd5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0162_001.markers.yaml, hash: 'sha256:bb8fde3a7481247093e1e2cf72623d84377a2d3da9b1d41a76d72b49e806b218'}
+  - {seq: 0, role: markers, filename: assets/KR6c0162_000.markers.yaml, hash: 'sha256:9be0f28a107007267b97ef951a9024da2b252426b01d1163af7c04feb62e9310'}
+  - {seq: 1, role: markers, filename: assets/KR6c0162_001.markers.yaml, hash: 'sha256:27f106521645cbc5743b246704c82fabc05b188f951322a4248f90aa19824989'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 心經提綱
   type: juan
   level: 1
-hash: sha256:b9c04e21a8704027c1624e95a4a3b4d570de3d194fe3ca659be1c37d366ad966
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bdb7c57179b89ee099daff5820cc1527f130d83c331acc1937c491ac6bc45a9e
 editions:
 - short: X
